@@ -1,6 +1,6 @@
-# Fashion-Clothes-Shopping-Database-Management-System
+# Clothing Inventory Management System
 
-This project is a Fashion Clothes Shopping Database Management System, built using HTML, CSS, PHP, and Bootstrap. It allows users to browse, manage, and purchase fashion items with a well-organized backend database system.
+This project is a Clothing Inventory Management System, built using HTML, CSS, PHP, and Bootstrap. It allows users to browse, manage, and purchase fashion items with a well-organized backend database system.
 
 ## Features
 
